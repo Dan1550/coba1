@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> CONTOH AJA SIHH</title>
+<style type="text/css">
+body{width: 2000px; margin:auto;}
+.kotak1{width:2000px; background-color: rgb(0, 0, 0); height: 1000px; display:table;} 
+.kotak1 p {display:table-cell; vertical-align: middle; text-align: center; font-size: 60px; font-weight: 600; color: #fff;}
+</style>
+</head>
+<body>
+<div class="kotak1">
+<p><marquee>HEY TANIA SI KANG MAGERR SELAMAT BERBUKA PUASA YAAA,SEMANGATTTT!!!!</marquee></p>
+</div>
+</body>
+</html>
